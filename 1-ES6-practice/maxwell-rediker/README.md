@@ -22,10 +22,11 @@ Follow these instructions carefully and in order.
 
 ##### Investigate how `let` and `const` are now used in the code. Where did you need to convert `const` into `let` to make the code work? Can you identify any patterns/similarities?
 
-(Put your answer here)
+I needed to convert const to let where the value of the variable was going to change. I noticed this was the case for counter variables.
 
 ---
 
 ##### How did it go with making the adaptation from concatenations to template literal notation? Do you think you'll mostly use template literal notation from now on?
 
-(Put your answer here)
+It went good with changing over to template notation but i had accidently added spaces where they were causing the images to not show but that was a quick fix. It makes typing out those concatenations much faster and i will definitely be using this method over traditional concatenation.
+
